@@ -42,7 +42,7 @@ $apps = @(
     "Rem0o.FanControl"
     "Obsidian.Obsidian"
     "RazerInc.RazerInstaller.Synapse3"
-    "REALix.HWiNFO"
+    "REALiX.HWiNFO"
     "Bambulab.Bambustudio"
     "Cyanfish.NAPS2"
     "RealVNC.VNCViewer"
