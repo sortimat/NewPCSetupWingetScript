@@ -1,6 +1,5 @@
 Script for New Windows PC setup using WinGet
-------------------------------
-------------------------------
+*********************************************
 Current App List:
 
 Google.Chrome
@@ -44,8 +43,7 @@ Cyanfish.NAPS2
 RealVNC.VNCViewer
 
 8BitDo.UltimateSoftwareV2
-------------------------------
-------------------------------
+*********************************************
 Missing:
 
 Nvidia App
@@ -54,8 +52,7 @@ Backblaze
 
 adobe digital editions
 
-------------------------------
-------------------------------
+*********************************************
 
 Calibre Plugins needed:
 
@@ -68,7 +65,6 @@ KFX Output
 Kobo Utilities
 
 WordDumb
-
 
 
 
