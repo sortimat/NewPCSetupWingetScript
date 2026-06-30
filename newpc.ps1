@@ -22,27 +22,27 @@
 
 # Edit this list with the winget IDs of the apps you want installed
 $apps = @(
-''Google.Chrome''
-''Mozilla.Firefox''
-''Bitwarden.Bitwarden''
-''Valve.Steam''
-''Discord.Discord''
-''Logitech.GHUB''
-''Logitech.OptionsPlus''
-''Google.GoogleDrive''
-''Proton.ProtonDrive''
-''Proton.ProtonAuthenticator''
-''Spotify.Spotify''
-''calibre.calibre''
-''Rem0o.FanControl''
-''Obsidian.Obsidian''
-''RazerInc.RazerInstaller.Synapse3''
-''REALix.HWiNFO''
-''Bambulab.Bambustudio''
-''Cyanfish.NAPS2''
-''RealVNC.VNCViewer''
-''8BitDo.UltimateSoftwareV2''
-''Microsoft.Office”
+"Google.Chrome"
+"Mozilla.Firefox"
+"Bitwarden.Bitwarden"
+"Valve.Steam"
+"Discord.Discord"
+"Logitech.GHUB"
+"Logitech.OptionsPlus"
+"Google.GoogleDrive"
+"Proton.ProtonDrive"
+"Proton.ProtonAuthenticator"
+"Spotify.Spotify"
+"calibre.calibre"
+"Rem0o.FanControl"
+"Obsidian.Obsidian"
+"RazerInc.RazerInstaller.Synapse3"
+"REALix.HWiNFO"
+"Bambulab.Bambustudio"
+"Cyanfish.NAPS2"
+"RealVNC.VNCViewer"
+"8BitDo.UltimateSoftwareV2"
+"Microsoft.Office"
 )
 
 # Confirm winget is actually available before doing anything else
