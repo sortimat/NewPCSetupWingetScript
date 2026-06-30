@@ -1,3 +1,7 @@
+run in powershell first if script running is disabled on system
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 Script for New Windows PC setup using WinGet
 *********************************************
 Current App List:
